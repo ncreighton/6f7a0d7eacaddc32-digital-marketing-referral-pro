@@ -1,2 +1,28 @@
-# 6f7a0d7eacaddc32-digital-marketing-referral-pro
-What if have a complete productivity system running today took minutes instead of hours?  Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Digital Marketing Referral Program And Tracking — fully configured and ready to use - P
+# Digital Marketing Referral Program and Tracking System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI5kDcLl9MwaNOeM4cZG1k)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI5kDcLl9MwaNOeM4cZG1k)
+
